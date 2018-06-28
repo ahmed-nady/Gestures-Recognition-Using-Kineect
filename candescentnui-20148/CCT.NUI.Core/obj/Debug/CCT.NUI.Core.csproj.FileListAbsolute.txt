@@ -1,0 +1,14 @@
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\OpenNI.net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\XnVNITE.net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\obj\Debug\CCT.NUI.Core.csprojResolveAssemblyReference.cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\obj\Debug\CCT.NUI.Core.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\obj\Debug\CCT.NUI.Core.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\OpenNI.net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\bin\Debug\XnVNITE.net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\obj\Debug\CCT.NUI.Core.csprojResolveAssemblyReference.cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\obj\Debug\CCT.NUI.Core.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Core\obj\Debug\CCT.NUI.Core.pdb

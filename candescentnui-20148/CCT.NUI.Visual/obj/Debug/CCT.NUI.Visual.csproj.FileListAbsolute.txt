@@ -1,0 +1,38 @@
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Visual.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Visual.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.HandTracking.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\OpenNI.Net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\XnVNITE.net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.HandTracking.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.csprojResolveAssemblyReference.cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\WpfVideoControl.baml
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\WpfVideoControl.g.cs
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual_MarkupCompile.cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.g.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.VideoControl.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.csproj.GenerateResource.Cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Visual.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Visual.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.HandTracking.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\OpenNI.Net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\XnVNITE.net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.HandTracking.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\bin\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.csprojResolveAssemblyReference.cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\WpfVideoControl.baml
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\WpfVideoControl.g.cs
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual_MarkupCompile.cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.g.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.VideoControl.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.csproj.GenerateResource.Cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Visual\obj\Debug\CCT.NUI.Visual.pdb

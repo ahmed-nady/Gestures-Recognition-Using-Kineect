@@ -1,0 +1,18 @@
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\OpenNI.Net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\XnVNITE.net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\obj\Debug\CCT.NUI.KinectSDK.csprojResolveAssemblyReference.cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\obj\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\obj\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\OpenNI.Net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\XnVNITE.net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\obj\Debug\CCT.NUI.KinectSDK.csprojResolveAssemblyReference.cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\obj\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.KinectSDK\obj\Debug\CCT.NUI.KinectSDK.pdb

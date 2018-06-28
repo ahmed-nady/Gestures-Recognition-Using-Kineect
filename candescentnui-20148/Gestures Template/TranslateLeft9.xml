@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="TranslateLeft9" Subject="test" Speed="test" NumPts="26" Milliseconds="343" AppName="Recognizer.NDollar" AppVer="8.1.2012.0" Date="Monday, November 16, 2015" TimeOfDay="8:12:22 PM">
+  <Stroke index="1">
+    <Point X="264" Y="123" T="159984313" />
+    <Point X="261" Y="123" T="159984329" />
+    <Point X="258" Y="123" T="159984344" />
+    <Point X="254" Y="123" T="159984360" />
+    <Point X="249" Y="123" T="159984360" />
+    <Point X="245" Y="125" T="159984376" />
+    <Point X="239" Y="127" T="159984391" />
+    <Point X="233" Y="127" T="159984407" />
+    <Point X="226" Y="128" T="159984422" />
+    <Point X="218" Y="132" T="159984422" />
+    <Point X="208" Y="135" T="159984438" />
+    <Point X="198" Y="136" T="159984454" />
+    <Point X="188" Y="136" T="159984469" />
+    <Point X="182" Y="136" T="159984485" />
+    <Point X="173" Y="136" T="159984485" />
+    <Point X="165" Y="137" T="159984500" />
+    <Point X="156" Y="139" T="159984516" />
+    <Point X="150" Y="142" T="159984547" />
+    <Point X="146" Y="144" T="159984547" />
+    <Point X="139" Y="144" T="159984563" />
+    <Point X="132" Y="144" T="159984578" />
+    <Point X="128" Y="144" T="159984594" />
+    <Point X="125" Y="144" T="159984610" />
+    <Point X="122" Y="144" T="159984610" />
+    <Point X="119" Y="144" T="159984641" />
+    <Point X="115" Y="144" T="159984656" />
+  </Stroke>
+</Gesture>

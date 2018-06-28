@@ -1,0 +1,54 @@
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\config.xml
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P2.JPG
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P3.JPG
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P4.JPG
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P5.JPG
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Samples.exe
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Samples.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.HandTracking.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Visual.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\OpenNI.net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\XnVNITE.net.dll
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.HandTracking.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Visual.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.csprojResolveAssemblyReference.cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.ImageManipulation.ImageForm.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.MainForm.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.Properties.Resources.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.SettingsForm.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.csproj.GenerateResource.Cache
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.exe
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.pdb
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.NDollar.DebugForm.resources
+F:\Working\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Microsoft.Ink.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\config.xml
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P2.JPG
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P3.JPG
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P4.JPG
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Images\P5.JPG
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Samples.exe
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Samples.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Core.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.HandTracking.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.KinectSDK.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Visual.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\Microsoft.Ink.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\OpenNI.net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\XnVNITE.net.dll
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Core.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.HandTracking.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.KinectSDK.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\bin\Debug\CCT.NUI.Visual.pdb
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.csprojResolveAssemblyReference.cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.ImageManipulation.ImageForm.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.MainForm.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.NDollar.DebugForm.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.Properties.Resources.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.SettingsForm.resources
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.csproj.GenerateResource.Cache
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.exe
+F:\Working\Finger Gesture\Final phase\kinect\candescentnui-20148\CCT.NUI.Samples\obj\Debug\CCT.NUI.Samples.pdb
