@@ -1,5 +1,6 @@
 # Gestures-Recognition-Using-Kineect
-Controlling The 3D Model in ImageJ with the Gestures Using Kinect
+Using Kinect for Controlling The 3D Model in ImageJ through the Gestures
+
 
 
 This project is based on Candescent NUI Library located at candescentnui.codeplex.com or https://github.com/VentaApps/Candescent-NUI-20148-for-Kinect-V2
